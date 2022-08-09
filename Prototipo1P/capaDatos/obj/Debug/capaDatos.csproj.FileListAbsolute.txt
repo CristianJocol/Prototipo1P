@@ -1,0 +1,9 @@
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDatos\obj\Debug\capaDatos.pdb

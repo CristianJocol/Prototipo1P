@@ -1,0 +1,10 @@
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\bin\Debug\formPrincipal.exe.config
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\bin\Debug\formPrincipal.exe
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\bin\Debug\formPrincipal.pdb
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\obj\Debug\formPrincipal.csproj.AssemblyReference.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\obj\Debug\formPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\obj\Debug\formPrincipal.Properties.Resources.resources
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\obj\Debug\formPrincipal.csproj.GenerateResource.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\obj\Debug\formPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\obj\Debug\formPrincipal.exe
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\formPrincipal\obj\Debug\formPrincipal.pdb

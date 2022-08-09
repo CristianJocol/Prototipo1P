@@ -1,0 +1,11 @@
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\bin\Debug\capaDominio.dll
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\bin\Debug\capaDominio.pdb
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\bin\Debug\capaDatos.dll
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\bin\Debug\capaEntidad.dll
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\bin\Debug\capaDatos.pdb
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\bin\Debug\capaEntidad.pdb
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\obj\Debug\capaDominio.csproj.AssemblyReference.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\obj\Debug\capaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\obj\Debug\capaDominio.csproj.CopyComplete
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\obj\Debug\capaDominio.dll
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaDominio\obj\Debug\capaDominio.pdb

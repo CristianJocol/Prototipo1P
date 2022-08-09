@@ -1,0 +1,6 @@
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\Admin2\OneDrive - Universidad Mariano Gálvez\Documentos\ProyectosVSCode\Prototipo1P\Prototipo1P\capaEntidad\obj\Debug\capaEntidad.pdb
